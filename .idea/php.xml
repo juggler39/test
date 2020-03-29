@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/../OSPanel/domains/drupal8/core" />
+      <path value="$PROJECT_DIR$/../OSPanel/domains/drupal8/modules" />
+      <path value="$PROJECT_DIR$/../OSPanel/domains/drupal8/libraries" />
+      <path value="$PROJECT_DIR$/../OSPanel/domains/drupal8/vendor" />
+    </include_path>
+  </component>
+</project>
